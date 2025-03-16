@@ -33,11 +33,11 @@ Habilidades
 -Frameworks <br/><br/>
 [![My Skills](https://skillicons.dev/icons?i=laravel,bootstrap,nextjs,nodejs)](https://skillicons.dev)
 
--arquitetura e padrão de projetos <br/><br/>
-Padrão MVC, Programação Orientada Objetos, Arquitetura Multitenancy (SaaS) ou Single Tenancy<br/>
-
 -Ide<br/><br/>
 [![My Skills](https://skillicons.dev/icons?i=phpstorm,dotnet,sublime,vscode,visualstudio)](https://skillicons.dev)
 
 -Versionamentos:<br/><br/>
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+
+-Arquitetura e padrão de projetos <br/><br/>
+Padrão MVC, Programação Orientada Objetos, Arquitetura Multitenancy (SaaS) ou Single Tenancy<br/>
